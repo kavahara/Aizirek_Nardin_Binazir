@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "author": "GOD",
+      "post": "GOD",
+      "img": "",
+      "id": 1
+    },
+    {
+      "author": "2",
+      "post": "2",
+      "img": "",
+      "id": 2
+    },
+    {
+      "author": "1",
+      "post": "1",
+      "img": "",
+      "id": 3
+    },
+    {
+      "author": "2",
+      "post": "2",
+      "img": "",
+      "id": 4
+    },
+    {
+      "author": "1",
+      "post": "1",
+      "img": "",
+      "id": 5
+    },
+    {
+      "author": "add",
+      "post": "image",
+      "img": "http://winallos.com/uploads/posts/2014-12/1417538826_temnyy-rycar-batman-betmen-temnyy.jpg",
+      "id": 6
+    }
+  ]
+}
